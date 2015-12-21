@@ -40,6 +40,8 @@ devel/qt5-buildtools
 devel/soapui
 devel/valgrind
 editors/libreoffice
+editors/vim
+emulators/qemu-devel
 emulators/virtualbox-ose
 emulators/wine-devel
 emulators/wine-gecko-devel
