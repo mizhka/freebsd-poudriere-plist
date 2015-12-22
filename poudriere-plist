@@ -30,6 +30,7 @@ devel/gitg
 devel/gmake
 devel/jenkins
 devel/jna
+devel/kyua
 devel/maven31
 devel/mercurial
 devel/py-virtualenvwrapper
