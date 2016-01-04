@@ -68,6 +68,7 @@ net-im/jitsi
 net-im/pidgin-sipe
 net-p2p/transmission
 net/linphone
+net/mpd5
 net/wireshark
 ports-mgmt/dialog4ports
 ports-mgmt/pkg
@@ -84,6 +85,7 @@ security/tcpcrypt
 sysutils/DTraceToolkit
 sysutils/archivemount
 sysutils/docker-freebsd
+sysutils/fdupes
 sysutils/fusefs-ntfs
 sysutils/fusefs-sshfs
 sysutils/grub2-bhyve
