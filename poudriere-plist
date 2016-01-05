@@ -110,7 +110,6 @@ textproc/kibana4
 textproc/meld
 textproc/py-sphinx
 textproc/sigil
-www/birdie
 www/chromium
 www/fcgiwrap
 www/firefox
@@ -121,7 +120,6 @@ www/nginx
 www/npm
 www/py-graphite-web
 www/squid
-www/tdesktop
 www/uglifyjs
 www/webkit-gtk2
 x11/gnome3
