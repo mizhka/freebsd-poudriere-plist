@@ -1,3 +1,4 @@
+archivers/lzma
 archivers/p7zip
 archivers/unrar
 archivers/unzip
@@ -39,16 +40,21 @@ devel/qmake5
 devel/qt5
 devel/qt5-buildtools
 devel/soapui
+devel/uboot-mkimage
 devel/valgrind
 editors/libreoffice
 editors/vim
+emulators/qemu
 emulators/qemu-devel
+emulators/qemu-sbruno
+emulators/qemu-user-static
 emulators/virtualbox-ose
 emulators/wine-devel
 emulators/wine-gecko-devel
 emulators/wine-mono-devel
 ftp/lftp
 ftp/wget
+graphics/blender
 graphics/gimp
 graphics/gthumb
 graphics/shotwell
