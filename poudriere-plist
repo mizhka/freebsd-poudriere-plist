@@ -49,6 +49,7 @@ emulators/qemu-devel
 emulators/qemu-sbruno
 emulators/qemu-user-static
 emulators/virtualbox-ose
+emulators/virtualbox-ose-additions
 emulators/wine-devel
 emulators/wine-gecko-devel
 emulators/wine-mono-devel
@@ -95,6 +96,7 @@ sysutils/fdupes
 sysutils/fusefs-ntfs
 sysutils/fusefs-sshfs
 sysutils/grub2-bhyve
+sysutils/grub2-efi
 sysutils/logstash
 sysutils/lsof
 sysutils/pstack
