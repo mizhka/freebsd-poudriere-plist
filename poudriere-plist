@@ -76,6 +76,7 @@ multimedia/vlc
 net-im/jitsi
 net-im/pidgin-sipe
 net-p2p/transmission
+net/grsync
 net/linphone
 net/mpd5
 net/wireshark
