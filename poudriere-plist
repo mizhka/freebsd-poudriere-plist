@@ -127,5 +127,6 @@ www/py-graphite-web
 www/squid
 www/uglifyjs
 www/webkit-gtk2
+www/youtube_dl
 x11/gnome3
 x11/xorg
