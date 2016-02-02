@@ -115,6 +115,7 @@ textproc/kibana4
 textproc/meld
 textproc/py-sphinx
 textproc/sigil
+textproc/source-highlight
 www/chromium
 www/fcgiwrap
 www/firefox
