@@ -63,6 +63,7 @@ graphics/gthumb
 graphics/shotwell
 java/eclipse
 java/openjdk8
+java/wildfly90
 mail/evolution-ews
 mail/evolution-mapi
 mail/geary
