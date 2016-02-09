@@ -34,6 +34,9 @@ devel/jna
 devel/kyua
 devel/maven31
 devel/mercurial
+devel/mips-binutils
+devel/mips-gcc
+devel/mips-xtoolchain-gcc
 devel/opengrok
 devel/py-virtualenvwrapper
 devel/pysvn
@@ -64,6 +67,7 @@ graphics/shotwell
 java/eclipse
 java/openjdk8
 java/wildfly90
+lang/clang37
 mail/evolution-ews
 mail/evolution-mapi
 mail/geary
