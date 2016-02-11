@@ -99,6 +99,7 @@ security/openconnect
 security/tcpcrypt
 sysutils/DTraceToolkit
 sysutils/archivemount
+sysutils/bsdinfo
 sysutils/docker-freebsd
 sysutils/fdupes
 sysutils/fusefs-ntfs
