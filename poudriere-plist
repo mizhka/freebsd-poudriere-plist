@@ -5,6 +5,7 @@ archivers/unzip
 archivers/zip
 audio/openal-soft
 audio/opusfile
+audio/pavucontrol
 comms/qt5-serialport
 comms/uarduno
 converters/convmv
