@@ -107,6 +107,7 @@ sysutils/fusefs-ntfs
 sysutils/fusefs-sshfs
 sysutils/grub2-bhyve
 sysutils/grub2-efi
+sysutils/htop
 sysutils/logstash
 sysutils/lsof
 sysutils/pstack
