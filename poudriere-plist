@@ -48,6 +48,7 @@ devel/rbtools
 devel/soapui
 devel/uboot-mkimage
 devel/valgrind
+devel/visualparadigm
 editors/libreoffice
 editors/vim
 emulators/qemu
