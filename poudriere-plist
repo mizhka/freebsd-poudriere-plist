@@ -66,6 +66,7 @@ graphics/blender
 graphics/gimp
 graphics/gthumb
 graphics/shotwell
+irc/znc
 java/eclipse
 java/openjdk8
 java/wildfly90
