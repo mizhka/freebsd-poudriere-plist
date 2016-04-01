@@ -9,6 +9,7 @@ audio/pavucontrol
 comms/qt5-serialport
 comms/uarduno
 converters/convmv
+converters/enca
 converters/unix2dos
 databases/linux-oracle-instantclient-sqlplus
 databases/pgadmin3
