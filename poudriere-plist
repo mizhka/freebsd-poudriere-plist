@@ -20,6 +20,7 @@ deskutils/gxneur
 deskutils/virt-manager
 devel/anjuta
 devel/apache-ant
+devel/arcanist
 devel/arduino
 devel/autoconf
 devel/automake
