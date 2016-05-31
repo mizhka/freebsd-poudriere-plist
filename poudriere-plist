@@ -12,6 +12,7 @@ converters/convmv
 converters/enca
 converters/unix2dos
 databases/linux-oracle-instantclient-sqlplus
+databases/memcached
 databases/pgadmin3
 databases/postgresql94-server
 databases/sqldeveloper
