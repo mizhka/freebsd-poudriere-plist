@@ -35,6 +35,7 @@ devel/gitg
 devel/gmake
 devel/jenkins
 devel/jna
+cad/kicad-devel
 devel/kyua
 devel/maven31
 devel/mercurial
