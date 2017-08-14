@@ -126,6 +126,7 @@ graphics/dia
 graphics/eog
 graphics/gimp
 graphics/gthumb
+graphics/libqrencode
 graphics/shotwell
 graphics/yed
 irc/znc
