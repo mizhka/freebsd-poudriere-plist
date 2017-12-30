@@ -40,7 +40,6 @@ databases/leveldb
 databases/linux-oracle-instantclient-sqlplus
 databases/pgadmin3
 databases/sqldeveloper
-deskutils/alacarte
 deskutils/calibre
 deskutils/gnome-tweak-tool
 deskutils/gnome-utils
@@ -159,7 +158,6 @@ games/gnome-tetravex
 games/gnuchess
 games/hitori
 games/iagno
-games/libgames-support
 games/libgnome-games-support
 games/lightsoff
 games/qqwing
@@ -205,15 +203,10 @@ graphics/shotwell
 graphics/xpdf
 irc/znc
 java/eclipse-cdt
-java/eclipse-goclipse
-java/eclipse-m2e
-java/eclipse-mat
 java/eclipse-pydev
 java/jattach
 java/openjdk7
 java/openjfx8-devel
-java/play1
-lang/clang37
 lang/cython
 lang/gjs
 lang/go
@@ -443,8 +436,6 @@ textproc/unoconv
 textproc/wv
 textproc/xerces-c3
 textproc/yelp-xsl
-www/airsonic
-www/birdie
 www/chromium
 www/fcgiwrap
 www/firefox
@@ -452,14 +443,11 @@ www/geckodriver
 www/grafana
 www/grafana4
 www/guacamole-client
-www/jmeter-plugins-extras
-www/jmeter-plugins-standard
 www/lessc
 www/nginx
 www/npm
 www/py-graphite-web
 www/py-httplib2
-www/py34-requests
 www/squid
 www/subsonic
 www/surf
