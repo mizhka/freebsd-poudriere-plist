@@ -295,7 +295,7 @@ net/p5-Socket
 net/qt4-network
 net/rsync
 net/samba-libsmbclient
-net/samba44
+net/samba47
 net/serviio
 net/syncthing
 net/syncthing-cli
