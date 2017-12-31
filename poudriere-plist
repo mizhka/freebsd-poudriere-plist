@@ -293,8 +293,8 @@ net/opal
 net/p5-IO-Socket-IP
 net/p5-Socket
 net/qt4-network
+net/rsync
 net/samba47
-net/samba-libsmbclient
 net/serviio
 net/syncthing
 net/syncthing-cli
