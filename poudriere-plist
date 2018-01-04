@@ -217,7 +217,6 @@ lang/python
 lang/ruby23
 mail/bogofilter
 mail/evolution-ews
-mail/geary
 mail/libesmtp
 math/glm
 math/gnome-calculator
@@ -407,7 +406,6 @@ textproc/gsed
 textproc/highlight
 textproc/hyphen
 textproc/intltool
-textproc/kibana
 textproc/libabw
 textproc/libcroco
 textproc/libcue
@@ -439,7 +437,6 @@ www/chromium
 www/fcgiwrap
 www/firefox
 www/geckodriver
-www/grafana
 www/grafana4
 www/guacamole-client
 www/lessc
@@ -449,7 +446,6 @@ www/py-graphite-web
 www/py-httplib2
 www/squid
 www/subsonic
-www/surf
 www/tomcat6
 www/uglifyjs
 www/w3m
