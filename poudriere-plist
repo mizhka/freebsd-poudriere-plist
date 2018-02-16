@@ -30,6 +30,9 @@ benchmarks/randomio
 cad/kicad
 cad/kicad-library
 comms/uarduno
+comms/gqrx
+comms/rtl-sdr
+comms/dump1090
 converters/convmv
 converters/enca
 converters/o3read
