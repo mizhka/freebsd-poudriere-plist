@@ -442,7 +442,6 @@ www/firefox
 www/geckodriver
 www/grafana4
 www/guacamole-client
-www/lessc
 www/nginx
 www/npm
 www/py-graphite-web
@@ -450,7 +449,6 @@ www/py-httplib2
 www/squid
 www/subsonic
 www/tomcat6
-www/uglifyjs
 www/w3m
 www/youtube_dl
 x11-drivers/xf86-video-ati
