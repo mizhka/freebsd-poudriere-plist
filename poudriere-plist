@@ -373,6 +373,7 @@ sysutils/fusefs-ntfs
 sysutils/fusefs-simple-mtpfs
 sysutils/fusefs-sshfs
 sysutils/gconf-editor
+sysutils/gkrellm2
 sysutils/grub2-bhyve
 sysutils/grub2-efi
 sysutils/hal-info
