@@ -10,7 +10,6 @@ archivers/unzip
 archivers/zip
 audio/abcde
 audio/alsa-utils
-audio/esound
 audio/faac
 audio/fdk-aac
 audio/flite
@@ -34,7 +33,6 @@ benchmarks/iperf3
 benchmarks/randomio
 cad/kicad
 cad/kicad-devel
-cad/kicad-library
 comms/dump1090
 comms/gqrx
 comms/qt5-serialport
@@ -147,10 +145,6 @@ devel/py3-Jinja2
 devel/py3-xdg
 devel/pysvn
 devel/qmake5
-devel/qt4-moc
-devel/qt4-qmake
-devel/qt4-rcc
-devel/qt4-uic
 devel/qt5
 devel/qt5-buildtools
 devel/qt5-linguisttools
@@ -241,8 +235,6 @@ graphics/poppler-utils
 graphics/py-imagesize
 graphics/py-pillow
 graphics/py-pyqtgraph
-graphics/qt4-opengl
-graphics/qt4-svg
 graphics/sdl_image
 graphics/shotwell
 graphics/xpdf
@@ -252,15 +244,12 @@ java/eclipse
 java/eclipse-cdt
 java/eclipse-pydev
 java/icedtea-web
-java/jaf
 java/jattach
 java/openjdk11
 java/openjdk7
 java/openjdk8
 java/openjfx8-devel
-java/play1
 java/wildfly90
-lang/clang37
 lang/cython
 lang/gjs
 lang/go
@@ -278,7 +267,6 @@ lang/rust
 mail/bogofilter
 mail/evolution
 mail/evolution-ews
-mail/evolution-mapi
 mail/geary
 mail/libesmtp
 math/glm
@@ -296,7 +284,6 @@ misc/smssend
 multimedia/camserv
 multimedia/clutter-gst
 multimedia/cuse4bsd-kmod
-multimedia/ffmpeg0
 multimedia/gstreamer-ffmpeg
 multimedia/gstreamer-plugins-bad
 multimedia/gstreamer-plugins-good
@@ -359,7 +346,6 @@ net/mpd5
 net/opal
 net/p5-IO-Socket-IP
 net/p5-Socket
-net/qt4-network
 net/qt5-network
 net/rsync
 net/samba47
@@ -407,7 +393,6 @@ security/clamav
 security/cyrus-sasl2
 security/gnome-keyring
 security/gpgme
-security/keepassx2
 security/keepassxc
 security/libgnome-keyring
 security/libpwquality
@@ -454,9 +439,7 @@ sysutils/gconf-editor
 sysutils/gdisk
 sysutils/genisoimage
 sysutils/gkrellm2
-sysutils/graphite_exporter
 sysutils/grub2-bhyve
-sysutils/grub2-efi
 sysutils/hal-info
 sysutils/htop
 sysutils/iohyve
@@ -487,7 +470,6 @@ textproc/asciidoc
 textproc/clucene
 textproc/colordiff
 textproc/discount
-textproc/elasticsearch
 textproc/enchant
 textproc/exempi
 textproc/flex
@@ -517,7 +499,6 @@ textproc/py-pygments
 textproc/py-snowballstemmer
 textproc/py-sphinx
 textproc/py-sphinx_rtd_theme
-textproc/qt4-xml
 textproc/raptor
 textproc/redland
 textproc/sigil
@@ -527,8 +508,6 @@ textproc/unoconv
 textproc/wv
 textproc/xerces-c3
 textproc/yelp-xsl
-www/airsonic
-www/birdie
 www/chromium
 www/fcgiwrap
 www/firefox
@@ -537,24 +516,15 @@ www/grafana
 www/grafana4
 www/guacamole-client
 www/jmeter
-www/jmeter-plugins-extras
-www/jmeter-plugins-standard
-www/lessc
 www/nginx
 www/npm
 www/py-graphite-web
 www/py-httplib2
 www/squid
-www/subsonic
 www/surf
-www/tdesktop-metaemoji
-www/tdesktop-metalang
-www/tdesktop-metastyle
 www/tidy-html5
 www/tomcat6
-www/uglifyjs
 www/w3m
-www/webkit-gtk2
 www/youtube_dl
 x11-drivers/xf86-video-ati
 x11-drivers/xf86-video-intel
