@@ -351,7 +351,7 @@ net/samba47
 net/serviio
 net/syncthing
 net/syncthing-cli
-net/tigervnc
+net/tigervnc-viewer
 net/uhttpmock
 net/vinagre
 net/vino
