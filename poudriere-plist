@@ -142,7 +142,6 @@ devel/py-virtualenvwrapper
 devel/py-xdg
 devel/py-xdg@py36
 devel/pysvn
-devel/qmake5
 devel/qt5
 devel/qt5-buildtools
 devel/qt5-linguisttools
@@ -351,7 +350,7 @@ net/uhttpmock
 net/vinagre
 net/vino
 net/wireshark
-net/wpa_gui
+net/wpa_supplicant_gui
 net/x11vnc
 ports-mgmt/dialog4ports
 ports-mgmt/pkg
