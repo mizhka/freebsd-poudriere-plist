@@ -56,7 +56,7 @@ databases/sqlite3
 deskutils/calibre
 deskutils/clipit
 deskutils/gnome-documents
-deskutils/gnome-tweak-tool
+deskutils/gnome-tweaks
 deskutils/gnome-utils
 deskutils/gxneur
 deskutils/syncthing-gtk
@@ -75,7 +75,6 @@ devel/automake
 devel/binutils
 devel/bison
 devel/bzr
-devel/cargo
 devel/ccache
 devel/cgit
 devel/cmake
@@ -94,7 +93,6 @@ devel/git
 devel/git-subversion
 devel/gitg
 devel/gmake
-devel/gmake-lite
 devel/godep
 devel/gperf
 devel/gradle
@@ -115,12 +113,12 @@ devel/libical
 devel/liblangtag
 devel/libnotify
 devel/liboil
-devel/liborcus07
+devel/liborcus
 devel/libpci
 devel/librest
 devel/libsigrok
 devel/libtool
-devel/llvm50
+devel/llvm80
 devel/maven
 devel/maven31
 devel/maven33
@@ -136,13 +134,13 @@ devel/opengrok
 devel/openocd
 devel/pkgconf
 devel/py-babel
+devel/py-dbus@py36
 devel/py-Jinja2
+devel/py-Jinja2@py36
 devel/py-virtualenv
 devel/py-virtualenvwrapper
 devel/py-xdg
-devel/py3-dbus
-devel/py3-Jinja2
-devel/py3-xdg
+devel/py-xdg@py36
 devel/pysvn
 devel/qmake5
 devel/qt5
@@ -154,9 +152,7 @@ devel/rbtools
 devel/re2
 devel/soapui
 devel/subversion
-devel/swig20
 devel/swig30
-devel/uboot-mkimage
 devel/valgrind
 devel/visualparadigm
 devel/xorg-macros
@@ -229,7 +225,7 @@ graphics/libspiro
 graphics/libwpg03
 graphics/mesa-demos
 graphics/opencollada
-graphics/OpenEXR
+graphics/openexr
 graphics/openjpeg15
 graphics/poppler-utils
 graphics/py-imagesize
@@ -261,7 +257,7 @@ lang/python2
 lang/python27
 lang/python35
 lang/python36
-lang/ruby23
+lang/ruby24
 lang/rust
 mail/bogofilter
 mail/evolution
@@ -320,7 +316,7 @@ net-im/telepathy-idle
 net-im/telepathy-logger
 net-im/telepathy-python
 net-im/telepathy-salut
-net-mgmt/prometheus
+net-mgmt/prometheus1
 net-p2p/transmission
 net-p2p/transmission-cli
 net-p2p/transmission-daemon
@@ -336,7 +332,7 @@ net/grsync
 net/guacamole-server
 net/libcmis
 net/liboauth
-net/librsync1
+net/librsync2
 net/liferea
 net/linphone
 net/lvwimax
@@ -347,10 +343,9 @@ net/p5-IO-Socket-IP
 net/p5-Socket
 net/qt5-network
 net/rsync
-net/samba47
+net/samba48
 net/serviio
 net/syncthing
-net/syncthing-cli
 net/tigervnc-viewer
 net/uhttpmock
 net/vinagre
@@ -374,7 +369,7 @@ print/foo2zjs
 print/foomatic-db
 print/foomatic-filters
 print/ghostscript9-agpl-x11
-print/gutenprint-base
+print/gutenprint
 print/libijs
 print/libmspub01
 print/libspectre
@@ -444,8 +439,7 @@ sysutils/htop
 sysutils/iohyve
 sysutils/kubectl
 sysutils/libcdio-paranoia
-sysutils/libzeitgeist
-sysutils/logstash
+sysutils/logstash5
 sysutils/lsof
 sysutils/neofetch
 sysutils/packer
@@ -455,13 +449,15 @@ sysutils/pstack
 sysutils/pstree
 sysutils/smartmontools
 sysutils/sysinfo
-sysutils/syslog-ng37
+sysutils/syslog-ng
 sysutils/tmux
 sysutils/u-boot-bananapi
+sysutils/u-boot-tools
 sysutils/uefi-edk2-bhyve
 sysutils/upower
 sysutils/usbhid-dump
 sysutils/vm-bhyve
+sysutils/zeitgeist
 sysutils/zfs-stats
 sysutils/zfsnap2
 sysutils/zrepl
@@ -541,7 +537,7 @@ x11-fonts/linux-c6-fontconfig
 x11-fonts/linuxlibertine-g
 x11-themes/gnome-backgrounds
 x11-themes/gnome-icon-theme-symbolic
-x11-themes/gnome-themes-standard
+x11-themes/gnome-themes-extra
 x11-toolkits/gnome-pty-helper
 x11-toolkits/gstreamer-plugins-pango
 x11-toolkits/pangomm
@@ -549,7 +545,6 @@ x11-toolkits/qt5-widgets
 x11-toolkits/unique
 x11/arandr
 x11/babl
-x11/dri3proto
 x11/gdm
 x11/gnome-terminal
 x11/gnome3
@@ -558,4 +553,5 @@ x11/rgb
 x11/startup-notification
 x11/xeyes
 x11/xorg
+x11/xorgproto
 x11/xrestop
