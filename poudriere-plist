@@ -78,7 +78,6 @@ devel/kyua
 devel/lcov
 devel/libbacktrace
 devel/libev
-devel/libpthread-stubs
 devel/libtool
 devel/liteide
 devel/llvm13
