@@ -111,7 +111,6 @@ devel/py-pyparsing
 devel/py-pyrsistent
 devel/py-six
 devel/py-wheel
-devel/py-zipstream-new
 devel/pysvn
 devel/radare2
 devel/ragel
@@ -150,7 +149,6 @@ irc/hexchat
 java/bootstrap-openjdk17
 java/eclipse-cdt
 java/eclipse-pydev
-java/eclipse-yaml-editor
 java/jattach
 java/jd-gui
 java/junit
@@ -260,7 +258,6 @@ sysutils/pstree
 sysutils/qdirstat
 sysutils/rsyslog8
 sysutils/sysinfo
-sysutils/terraform-provider-proxmox
 sysutils/tmux
 sysutils/u-boot-bananapi
 sysutils/u-boot-tools
@@ -297,8 +294,6 @@ www/py-cachecontrol
 www/py-notebook
 www/qt5-webengine
 www/squid
-www/tomcat10
-www/transmission-web
 www/youtube_dl
 x11-fm/pcmanfm
 x11-toolkits/gtksourceview3
