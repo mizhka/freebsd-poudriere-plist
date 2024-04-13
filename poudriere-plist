@@ -38,19 +38,22 @@ converters/convmv
 converters/enca
 converters/unix2dos
 databases/pgbadger
+databases/pgloader3
 databases/postgresql-plv8js
-databases/postgresql13-contrib
-databases/postgresql13-server
+databases/postgresql16-contrib
+databases/postgresql16-server
 databases/py-pickleshare
 databases/sfcgal
 databases/spatialite
 deskutils/clipit
 deskutils/flameshot
+deskutils/foliate
 deskutils/todour
 deskutils/xneur
 deskutils/xpad
 devel/android-tools
 devel/apache-ant
+devel/arduino
 devel/automake
 devel/binutils
 devel/bison
@@ -84,7 +87,7 @@ devel/llvm13
 devel/llvm14
 devel/maven
 devel/maven39
-devel/meson
+devel/ninja
 devel/opengrok
 devel/p5-Class-Accessor
 devel/p5-IPC-Run
@@ -118,6 +121,7 @@ devel/swig
 devel/valgrind
 dns/bind-tools
 editors/ghex
+editors/libreoffice
 editors/neovim
 editors/wxhexeditor
 editors/xed
@@ -155,8 +159,9 @@ java/openjdk17
 java/openjfx14
 lang/clojure
 lang/gcc11
+lang/gcc12
 lang/go
-lang/go119
+lang/go120
 lang/julia
 lang/kotlin
 lang/lua52
@@ -164,6 +169,7 @@ lang/python
 lang/python2
 lang/ruby31
 lang/spidermonkey91
+lang/rizin-cutter
 mail/claws-mail
 mail/thunderbird
 math/cgal
@@ -191,6 +197,7 @@ net/gitup
 net/grsync
 net/mDNSResponder
 net/mpd5
+net/mtr
 net/p5-IO-Socket-INET6
 net/remmina
 net/socat
@@ -206,7 +213,6 @@ ports-mgmt/porttools
 ports-mgmt/poudriere
 ports-mgmt/py-pytoport
 print/a2ps
-russian/libreoffice
 russian/mueller-dic
 science/libkml
 science/pulseview
@@ -249,6 +255,7 @@ sysutils/htop
 sysutils/hw-probe
 sysutils/intel-pcm
 sysutils/kubectl
+sysutils/libtree
 sysutils/lsof
 sysutils/packer
 sysutils/powerdxx
@@ -306,4 +313,5 @@ x11/lightdm-gtk-greeter
 x11/xclip
 x11/xorg
 x11/xrestop
+x11/xscope
 x11/zenity
