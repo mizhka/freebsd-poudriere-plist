@@ -178,6 +178,8 @@ math/eigen3
 math/gnome-calculator
 math/lib2geom
 math/metis
+math/py-matplotlib
+math/py-numpy
 math/py-pandas
 misc/cloc
 multimedia/libde265
