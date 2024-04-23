@@ -20,6 +20,7 @@ audio/pavucontrol
 audio/portaudio
 audio/py-eyed3
 audio/ripperx
+audio/sox
 audio/virtual_oss
 audio/vorbis-tools
 benchmarks/fio
