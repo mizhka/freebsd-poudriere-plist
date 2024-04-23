@@ -185,6 +185,7 @@ math/py-numpy
 math/py-pandas
 misc/cloc
 multimedia/libde265
+multimedia/obs-studio
 multimedia/pwcview
 multimedia/spook
 multimedia/v4l_compat
