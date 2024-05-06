@@ -32,6 +32,7 @@ benchmarks/typometer
 cad/libbgcode
 cad/openscad
 cad/PrusaSlicer
+cad/sweethome3d
 comms/dump1090
 comms/hcidump
 comms/iwmbt-firmware
