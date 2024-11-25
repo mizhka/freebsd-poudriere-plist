@@ -82,7 +82,6 @@ devel/gradle
 devel/gradle62
 devel/grpc
 devel/include-what-you-use
-devel/kyua
 devel/lcov
 devel/libbacktrace
 devel/libev
@@ -97,6 +96,7 @@ devel/opengrok
 devel/p5-Class-Accessor
 devel/p5-IPC-Run
 devel/p5-Test-Pod
+devel/pipelight
 devel/protobuf-c
 devel/py-backcall
 devel/py-build
@@ -133,6 +133,11 @@ editors/xed
 emulators/dosbox
 emulators/linux_base-c7
 emulators/qemu-devel
+filesystems/exfat
+filesystems/fswatch-mon
+filesystems/ntfs
+filesystems/sshfs
+filesystems/zrepl
 ftp/lftp
 ftp/wget
 games/minecraft-client
@@ -172,9 +177,8 @@ lang/kotlin
 lang/lua52
 lang/python
 lang/python2
-lang/ruby31
-lang/spidermonkey91
 lang/rizin-cutter
+lang/ruby31
 mail/claws-mail
 mail/thunderbird
 math/cgal
@@ -252,10 +256,6 @@ sysutils/duf
 sysutils/fdupes
 sysutils/flashrom
 sysutils/flock
-sysutils/fswatch-mon
-sysutils/fusefs-exfat
-sysutils/fusefs-ntfs
-sysutils/fusefs-sshfs
 sysutils/gdisk
 sysutils/grub2-bhyve
 sysutils/herbe
@@ -279,7 +279,6 @@ sysutils/u-boot-tools
 sysutils/usbhid-dump
 sysutils/usbtop
 sysutils/vm-bhyve
-sysutils/zrepl
 textproc/asciidoc
 textproc/colordiff
 textproc/discount
@@ -309,7 +308,7 @@ www/py-cachecontrol
 www/py-notebook
 www/qt5-webengine
 www/squid
-www/youtube_dl
+www/yt-dlp
 x11-fm/pcmanfm
 x11-toolkits/gtksourceview3
 x11-toolkits/py-tkinter
@@ -324,3 +323,4 @@ x11/xorg
 x11/xrestop
 x11/xscope
 x11/zenity
+
