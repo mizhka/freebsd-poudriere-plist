@@ -302,6 +302,7 @@ textproc/xerces-c3
 textproc/xmlto
 www/cadaver
 www/chromium
+www/deno
 www/firefox
 www/gohugo
 www/p5-libwww
