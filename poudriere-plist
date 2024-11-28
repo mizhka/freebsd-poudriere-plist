@@ -87,8 +87,6 @@ devel/libbacktrace
 devel/libev
 devel/libtool
 devel/liteide
-devel/llvm13
-devel/llvm14
 devel/maven
 devel/maven39
 devel/ninja
@@ -244,6 +242,7 @@ security/tinc
 security/u2f-devd
 security/vpnc
 shells/zsh
+sysutils/acpica-tools
 sysutils/ansible
 sysutils/beadm
 sysutils/bhyve-firmware
@@ -251,11 +250,14 @@ sysutils/bsdinfo
 sysutils/bsdstats
 sysutils/cmdwatch
 sysutils/cmocka
+sysutils/cpu-microcode
 sysutils/cpuid
+sysutils/cpupdate
 sysutils/duf
 sysutils/fdupes
 sysutils/flashrom
 sysutils/flock
+sysutils/fswatch-mon
 sysutils/gdisk
 sysutils/grub2-bhyve
 sysutils/herbe
@@ -274,6 +276,7 @@ sysutils/qdirstat
 sysutils/rsyslog8
 sysutils/sysinfo
 sysutils/tmux
+sysutils/turbostat
 sysutils/u-boot-bananapi
 sysutils/u-boot-tools
 sysutils/usbhid-dump
