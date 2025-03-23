@@ -258,7 +258,6 @@ sysutils/duf
 sysutils/fdupes
 sysutils/flashrom
 sysutils/flock
-sysutils/fswatch-mon
 sysutils/gdisk
 sysutils/grub2-bhyve
 sysutils/herbe
