@@ -13,6 +13,7 @@ archivers/unzip
 archivers/zip
 astro/xearth
 audio/alsa-utils
+audio/ardour
 audio/cd-discid
 audio/gtk-mixer
 audio/libdiscid
