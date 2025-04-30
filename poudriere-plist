@@ -140,7 +140,6 @@ filesystems/sshfs
 filesystems/zrepl
 ftp/lftp
 ftp/wget
-games/minecraft-client
 graphics/argyllcms
 graphics/dcmtk
 graphics/dia
@@ -178,7 +177,6 @@ lang/lua52
 lang/python
 lang/python2
 lang/rizin-cutter
-lang/ruby31
 mail/claws-mail
 mail/thunderbird
 math/cgal
@@ -193,7 +191,6 @@ misc/cloc
 multimedia/libde265
 multimedia/obs-studio
 multimedia/pwcview
-multimedia/spook
 multimedia/v4l_compat
 multimedia/vlc
 net-im/libquotient
@@ -212,6 +209,7 @@ net/mpd5
 net/mtr
 net/p5-IO-Socket-INET6
 net/remmina
+net/samba420
 net/socat
 net/tigervnc-viewer
 net/trafshow
@@ -223,7 +221,6 @@ ports-mgmt/portfmt
 ports-mgmt/portshaker
 ports-mgmt/porttools
 ports-mgmt/poudriere
-ports-mgmt/py-pytoport
 print/a2ps
 russian/mueller-dic
 science/libkml
@@ -306,6 +303,7 @@ www/chromium
 www/deno
 www/firefox
 www/gohugo
+www/npm
 www/p5-libwww
 www/p5-Mojolicious
 www/py-cachecontrol
