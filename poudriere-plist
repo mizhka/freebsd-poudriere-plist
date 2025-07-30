@@ -11,6 +11,7 @@ archivers/snzip
 archivers/unrar
 archivers/unzip
 archivers/zip
+astro/stellarium
 astro/xearth
 audio/alsa-utils
 audio/ardour
