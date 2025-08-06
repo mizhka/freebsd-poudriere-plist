@@ -84,6 +84,7 @@ devel/gperf
 devel/gradle
 devel/gradle62
 devel/grpc
+devel/heaptrack
 devel/include-what-you-use
 devel/lcov
 devel/libbacktrace
