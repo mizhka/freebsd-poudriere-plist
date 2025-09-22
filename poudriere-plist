@@ -144,6 +144,7 @@ filesystems/zrepl
 ftp/lftp
 ftp/wget
 graphics/argyllcms
+graphics/birdfont
 graphics/dcmtk
 graphics/dia
 graphics/drm-515-kmod
