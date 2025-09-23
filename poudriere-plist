@@ -147,6 +147,7 @@ graphics/argyllcms
 graphics/birdfont
 graphics/dcmtk
 graphics/dia
+graphics/drawio
 graphics/drm-515-kmod
 graphics/gimp
 graphics/gpu-firmware-kmod
