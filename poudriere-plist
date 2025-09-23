@@ -76,6 +76,7 @@ devel/dwarfdump
 devel/etcd
 devel/gdb
 devel/gdcm
+devel/gettext
 devel/gettext-tools
 devel/gflags
 devel/gitg
@@ -125,6 +126,7 @@ devel/radare2
 devel/ragel
 devel/soapui
 devel/swig
+devel/tcllib
 devel/valgrind
 dns/bind-tools
 editors/ghex
@@ -213,6 +215,7 @@ net/grsync
 net/mDNSResponder
 net/mpd5
 net/mtr
+net/openldap26-server
 net/p5-IO-Socket-INET6
 net/remmina
 net/samba420
