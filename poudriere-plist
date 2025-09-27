@@ -197,9 +197,11 @@ math/py-matplotlib
 math/py-numpy
 math/py-pandas
 misc/cloc
+multimedia/kdenlive
 multimedia/libde265
 multimedia/obs-studio
 multimedia/pwcview
+multimedia/shotcut
 multimedia/v4l_compat
 multimedia/vlc
 net-im/libquotient
