@@ -252,6 +252,8 @@ security/u2f-devd
 security/vpnc
 shells/zsh
 sysutils/acpica-tools
+sysutils/android-file-transfer
+sysutils/android-file-transfer-qt5
 sysutils/ansible
 sysutils/beadm
 sysutils/bhyve-firmware
@@ -266,6 +268,7 @@ sysutils/duf
 sysutils/fdupes
 sysutils/flashrom
 sysutils/flock
+sysutils/fusefs-jmtpfs
 sysutils/gdisk
 sysutils/grub2-bhyve
 sysutils/herbe
