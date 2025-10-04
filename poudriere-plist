@@ -267,6 +267,7 @@ sysutils/cpu-microcode
 sysutils/cpuid
 sysutils/cpupdate
 sysutils/duf
+sysutils/f3
 sysutils/fdupes
 sysutils/flashrom
 sysutils/flock
