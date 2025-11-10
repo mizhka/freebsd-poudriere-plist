@@ -123,7 +123,6 @@ devel/py-pyparsing
 devel/py-pyrsistent
 devel/py-six
 devel/py-wheel
-devel/pysvn
 devel/radare2
 devel/ragel
 devel/soapui
@@ -177,7 +176,6 @@ java/junit
 java/openjdk17
 java/openjfx14
 lang/clojure
-lang/gcc11
 lang/gcc12
 lang/go
 lang/go120
