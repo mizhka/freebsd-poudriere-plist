@@ -141,6 +141,7 @@ emulators/qemu-devel
 emulators/virtualbox-ose
 filesystems/exfat
 filesystems/fswatch-mon
+filesystems/jmtpfs
 filesystems/ntfs
 filesystems/sshfs
 filesystems/zrepl
@@ -270,7 +271,6 @@ sysutils/f3
 sysutils/fdupes
 sysutils/flashrom
 sysutils/flock
-sysutils/fusefs-jmtpfs
 sysutils/gdisk
 sysutils/grub2-bhyve
 sysutils/herbe
