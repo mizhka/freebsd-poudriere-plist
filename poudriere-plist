@@ -82,6 +82,7 @@ devel/gettext
 devel/gettext-tools
 devel/gflags
 devel/gitg
+devel/git-gui
 devel/gmake
 devel/gperf
 devel/gradle
