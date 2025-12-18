@@ -197,6 +197,7 @@ math/metis
 math/py-matplotlib
 math/py-numpy
 math/py-pandas
+misc/alpaca
 misc/cloc
 multimedia/kdenlive
 multimedia/libde265
