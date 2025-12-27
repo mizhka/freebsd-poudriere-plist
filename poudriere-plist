@@ -136,6 +136,7 @@ editors/libreoffice
 editors/neovim
 editors/wxhexeditor
 editors/xed
+editors/zed
 emulators/dosbox
 emulators/linux_base-c7
 emulators/qemu-devel
@@ -169,6 +170,7 @@ graphics/ttyplot
 graphics/xmedcon
 graphics/zathura-pdf-mupdf
 irc/hexchat
+irc/halloy
 java/bootstrap-openjdk17
 java/eclipse-cdt
 java/eclipse-pydev
