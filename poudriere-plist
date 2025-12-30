@@ -141,6 +141,7 @@ emulators/dosbox
 emulators/linux_base-c7
 emulators/qemu-devel
 emulators/qemu
+emulators/qemu@tools 
 emulators/virtualbox-ose
 filesystems/exfat
 filesystems/fswatch-mon
