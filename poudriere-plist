@@ -290,6 +290,7 @@ sysutils/powermon
 sysutils/pstree
 sysutils/qdirstat
 sysutils/rsyslog8
+sysutils/swtpm
 sysutils/sysinfo
 sysutils/tmux
 sysutils/turbostat
