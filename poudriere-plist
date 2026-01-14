@@ -162,13 +162,16 @@ graphics/gpu-firmware-kmod
 graphics/GraphicsMagick
 graphics/kolourpaint
 graphics/lerc
+graphics/libheif
 graphics/libgeotiff
 graphics/libimagequant
 graphics/libpotrace
+graphics/p5-Image-ExifToolRead
 graphics/proj-data
 graphics/scrot
 graphics/shotwell
 graphics/ttyplot
+graphics/vips
 graphics/xmedcon
 graphics/zathura-pdf-mupdf
 irc/hexchat
@@ -234,6 +237,7 @@ net/trafshow
 net/vde2
 net/wireshark
 ports-mgmt/dialog4ports
+ports-mgmt/modules2tuple
 ports-mgmt/portfind
 ports-mgmt/portfmt
 ports-mgmt/portshaker
@@ -244,6 +248,7 @@ russian/mueller-dic
 science/libkml
 science/pulseview
 science/sigrok-firmware
+science/py-tensorflow
 security/binwalk
 security/gost-engine
 security/hydra
@@ -287,6 +292,7 @@ sysutils/kubectl
 sysutils/libtree
 sysutils/lsof
 sysutils/packer
+sysutils/podman-suite
 sysutils/powerdxx
 sysutils/powermon
 sysutils/pstree
