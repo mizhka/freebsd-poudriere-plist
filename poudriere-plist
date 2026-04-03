@@ -171,7 +171,6 @@ graphics/libheif
 graphics/libgeotiff
 graphics/libimagequant
 graphics/libpotrace
-graphics/p5-Image-ExifToolRead
 graphics/proj-data
 graphics/scrot
 graphics/shotwell
