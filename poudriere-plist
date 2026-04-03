@@ -1,6 +1,7 @@
 archivers/bzip2
 archivers/gtar
 archivers/lzma
+archivers/pbzip2
 archivers/peazip
 archivers/pigz
 archivers/py-libarchive-c
@@ -31,6 +32,7 @@ benchmarks/glmark2
 benchmarks/iperf
 benchmarks/iperf3
 benchmarks/typometer
+cad/Clipper2
 cad/freecad
 cad/libbgcode
 cad/openscad
@@ -56,6 +58,7 @@ deskutils/clipit
 deskutils/flameshot
 deskutils/foliate
 deskutils/mindforger
+deskutils/podman-desktop
 deskutils/qownnotes
 deskutils/todour
 deskutils/virt-manager
@@ -85,6 +88,7 @@ devel/gitg
 devel/git-gui
 devel/gmake
 devel/gperf
+devel/gitg
 devel/gradle
 devel/gradle62
 devel/grpc
@@ -97,6 +101,7 @@ devel/libtool
 devel/liteide
 devel/maven
 devel/maven39
+devel/meson
 devel/ninja
 devel/opengrok
 devel/p5-Class-Accessor
@@ -174,8 +179,8 @@ graphics/ttyplot
 graphics/vips
 graphics/xmedcon
 graphics/zathura-pdf-mupdf
-irc/hexchat
 irc/halloy
+irc/hexchat
 java/bootstrap-openjdk17
 java/eclipse-cdt
 java/eclipse-pydev
@@ -190,6 +195,7 @@ lang/go
 lang/go120
 lang/julia
 lang/kotlin
+lang/kotlin21
 lang/lua52
 lang/python
 lang/python2
@@ -234,6 +240,7 @@ net/samba420
 net/socat
 net/tigervnc-viewer
 net/trafshow
+net/tsocks
 net/vde2
 net/wireshark
 ports-mgmt/dialog4ports
@@ -244,6 +251,7 @@ ports-mgmt/portshaker
 ports-mgmt/porttools
 ports-mgmt/poudriere
 print/a2ps
+print/brlaser
 russian/mueller-dic
 science/libkml
 science/pulseview
@@ -292,12 +300,15 @@ sysutils/kubectl
 sysutils/libtree
 sysutils/lsof
 sysutils/packer
+sysutils/podman
 sysutils/podman-suite
 sysutils/powerdxx
 sysutils/powermon
+sysutils/pstacku
 sysutils/pstree
 sysutils/qdirstat
 sysutils/rsyslog8
+sysutils/runj
 sysutils/swtpm
 sysutils/sysinfo
 sysutils/tmux
@@ -331,6 +342,7 @@ www/chromium
 www/deno
 www/firefox
 www/gohugo
+www/node
 www/npm
 www/p5-libwww
 www/p5-Mojolicious
@@ -346,6 +358,7 @@ x11-wm/jwm
 x11-wm/skippy-xd
 x11/alacritty
 x11/arandr
+x11/evtest
 x11/gmrun
 x11/lightdm-gtk-greeter
 x11/xclip
