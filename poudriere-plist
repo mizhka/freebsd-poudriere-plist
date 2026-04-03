@@ -191,7 +191,6 @@ java/openjfx14
 lang/clojure
 lang/gcc12
 lang/go
-lang/go120
 lang/julia
 lang/kotlin
 lang/kotlin22
