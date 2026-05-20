@@ -1,3 +1,13 @@
 pkg query -e '%#r == 0' '%o' | sort | uniq > poudriere-plist.tmp
 meld poudriere-plist poudriere-plist.tmp
 
+### 2026-05-08
+
+audio/vosk-api
+textproc/ripgrep
+
+### 2026-05-20
+
+misc/llama-cpp
+misc/pytorch
+misc/py-pytorch

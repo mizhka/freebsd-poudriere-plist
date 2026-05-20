@@ -213,6 +213,9 @@ math/py-numpy
 math/py-pandas
 misc/alpaca
 misc/cloc
+misc/llama-cpp
+misc/pytorch
+misc/py-pytorch
 multimedia/kdenlive
 multimedia/libde265
 multimedia/obs-studio
