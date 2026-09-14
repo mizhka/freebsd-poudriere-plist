@@ -283,7 +283,6 @@ sysutils/ansible
 sysutils/beadm
 sysutils/bhyve-firmware
 sysutils/bsdinfo
-sysutils/bsdstats
 sysutils/cmdwatch
 sysutils/cmocka
 sysutils/cpu-microcode
