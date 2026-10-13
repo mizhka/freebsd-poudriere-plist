@@ -60,7 +60,6 @@ databases/spatialite
 deskutils/clipit
 deskutils/flameshot
 deskutils/foliate
-deskutils/mindforger
 deskutils/podman-desktop
 deskutils/qownnotes
 deskutils/todour
@@ -354,7 +353,6 @@ www/p5-libwww
 www/p5-Mojolicious
 www/py-cachecontrol
 www/py-notebook
-www/qt5-webengine
 www/squid
 www/yt-dlp
 x11-fm/pcmanfm
